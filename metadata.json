@@ -1,0 +1,6 @@
+{
+  "name": "Omni.IA",
+  "description": "Omni.IA — Plataforma de recomendación inteligente, clasificación neuronal multimodelo y optimizador genético de compras para tecnología y calzado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
